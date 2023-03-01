@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Coutinhopmw
-- 👀 I’m interested in fontend HTML, CSS, Boostrap.
-- 🌱 I’m currently learning angular, postgres.
+- 👀 I’m interested in fontend django..
+- 🌱 I’m currently learning python, django.
 - 💞️ I’m looking to collaborate on projects for frontend.
-- 📫 How to reach me cassio.coutinho@mail.uft.edu.br
+- 📫 How to reach me cassiocoutinho258@gmail.com
 
 <!---
 Coutinhopmw/Coutinhopmw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
