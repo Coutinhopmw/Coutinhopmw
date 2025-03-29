@@ -12,28 +12,28 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em **Python** e **Django*
 
 ## 💻 Tecnologias e Ferramentas
 ### Linguagens:
-- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo.svg) **Python**
-- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/63/JavaScript-logo.png) **JavaScript**
-- ![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP_logo.svg) **PHP**
-- ![C](https://upload.wikimedia.org/wikipedia/commons/1/1b/C_Programming_Language_logo.svg) **C**
-- ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) **HTML**
-- ![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg) **CSS**
-- ![Java](https://upload.wikimedia.org/wikipedia/commons/6/6f/Java_logo_icon_2021.svg) **Java**
+- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) **Python**
+- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) **JavaScript**
+- ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) **PHP**
+- ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) **C**
+- ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) **HTML**
+- ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) **CSS**
+- ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) **Java**
 
 ### Frameworks:
-- ![Django](https://upload.wikimedia.org/wikipedia/commons/b/b1/Django_logo_2020.svg) **Django**
-- ![Laravel](https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel_Logo.svg) **Laravel**
+- ![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg) **Django**
+- ![Laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg) **Laravel**
 
 ### Banco de Dados:
-- ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg) **PostgreSQL**
-- ![MySQL](https://upload.wikimedia.org/wikipedia/commons/6/61/MySQL.svg) **MySQL**
+- ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) **PostgreSQL**
+- ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) **MySQL**
 
 ### Mensageria:
 - ![WhatsApp](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg) **API WhatsApp Gateway**
 
 ### Frontend:
-- ![Vue.js](https://upload.wikimedia.org/wikipedia/commons/f/f1/JavaScript-logo.png) **Vue.js**
-- ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) **React.js**
+- ![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg) **Vue.js**
+- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) **React.js**
 
 ## 📈 Projetos e Contribuições
 Atualmente, estou desenvolvendo um **sistema de gestão para academias de artes marciais**, incluindo recursos como:
@@ -53,4 +53,4 @@ Além disso, participo da criação de um curso com **Django**, **Flutter** e **
 
 ## 📬 Contato
 Se quiser trocar ideias, colaborar em projetos ou apenas bater um papo sobre tecnologia, entre em contato comigo:
-📧 Email: cassiocoutinho258@gmail.com
+📧 Email: [cassiocoutinho258@gmail.com](mailto:cassiocoutinho258@gmail.com)
