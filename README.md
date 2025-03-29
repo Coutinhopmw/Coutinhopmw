@@ -49,4 +49,8 @@ Atualmente, estou desenvolvendo um **sistema de gestão para academias de artes 
 - **Software de Gestão Empresarial em C**: Sistema desktop criado em **C** para gerenciamento de pequenas empresas.
 - **Plataforma de Blogs em PHP**: Desenvolvimento de um CMS simples para blogs utilizando **PHP** e **MySQL**.
 
-Além disso, participo da criação de um curso
+Além disso, participo da criação de um curso com **Django**, **Flutter** e **lógica de programação**.
+
+## 📬 Contato
+Se quiser trocar ideias, colaborar em projetos ou apenas bater um papo sobre tecnologia, entre em contato comigo:
+📧 Email: cassiocoutinho258@gmail.com
