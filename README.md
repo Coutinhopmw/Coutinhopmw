@@ -11,12 +11,12 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em **Python** e **Django*
 - Ensino e compartilhamento de conhecimento sobre programação
 
 ## 💻 Tecnologias e Ferramentas
-- **Linguagens:** Python, JavaScript, Java, C, PHP
-- **Backend:** Django, Django REST Framework
-- **Banco de Dados:** PostgreSQL
-- **Mensageria:** API WhatsApp Gateway
-- **Frontend:** HTML, CSS, JavaScript
-- **Outras ferramentas:** Nginx, Gunicorn, VPS Ubuntu, Git
+- **Linguagens:** **Python**, **JavaScript**, **PHP**, **C**, **HTML**, **CSS**, **Java**
+- **Backend:** **Django**, **Django REST Framework**, **Laravel** (PHP)
+- **Banco de Dados:** **PostgreSQL**, **MySQL**
+- **Mensageria:** **API WhatsApp Gateway**
+- **Frontend:** **HTML**, **CSS**, **JavaScript**, **Vue.js**, **React.js**
+- **Outras ferramentas:** **Nginx**, **Gunicorn**, **VPS Ubuntu**, **Git**
 
 ## 📈 Projetos e Contribuições
 Atualmente, estou desenvolvendo um **sistema de gestão para academias de artes marciais**, incluindo recursos como:
@@ -32,9 +32,8 @@ Atualmente, estou desenvolvendo um **sistema de gestão para academias de artes 
 - **Software de Gestão Empresarial em C**: Sistema desktop criado em **C** para gerenciamento de pequenas empresas.
 - **Plataforma de Blogs em PHP**: Desenvolvimento de um CMS simples para blogs utilizando **PHP** e **MySQL**.
 
-Além disso, participo da criação de um curso com **Django, Flutter e lógica de programação**.
+Além disso, participo da criação de um curso com **Django**, **Flutter** e **lógica de programação**.
 
 ## 📬 Contato
 Se quiser trocar ideias, colaborar em projetos ou apenas bater um papo sobre tecnologia, entre em contato comigo:
 📧 Email: cassiocoutinho258@gmail.com
-
